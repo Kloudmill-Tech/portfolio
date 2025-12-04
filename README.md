@@ -9,15 +9,15 @@ _____
 
 *Writing Samples*
 _____
-[**APIs in Plain English**](https://github.com/Kloudmill-Tech/tech-writing-portfolio/blob/main/APIs_In_Plain_English.md)
+### [**APIs in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/APIs_In_Plain_English.md)
 _____
-**Postman in Plain English**
+### [**Postman in Plain English**](https://github.com/Kloudmill-Tech)
 _____
-**Helm Charts in Plain English**
+### [**k8s in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/K8s_in_english.md)
 _______
-**SSL/TLS in Plain English**
+### [**SSL/TLS in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/SSL_TLS.md)
 ________
 
 *Resume*
 
-*LinkedIn*
+### [*LinkedIn*]()
