@@ -13,7 +13,7 @@ _____
 _____
 ### [**Postman in Plain English**](https://github.com/Kloudmill-Tech)
 _____
-### [**k8s in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/K8s_in_english.md)
+### [**K8s in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/K8s_in_english.md)
 _______
 ### [**SSL/TLS in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/SSL_TLS.md)
 ________
