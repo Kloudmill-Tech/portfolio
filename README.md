@@ -26,14 +26,14 @@ My brand voice or writing style is knowledgeable, concise and readable. My exper
 
 ----
 
-## Portfolio Content
+## *Portfolio Content*
 
 * Articles
 * Technical Guides
 
 ----
 
-## SkillSets
+## *SkillSets*
 
 * Markdown
 * Technical Research
