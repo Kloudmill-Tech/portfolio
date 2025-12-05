@@ -12,7 +12,7 @@ KloudMill Technology Solutons strives to provide invaluable services to organiza
 
 ## *My Voice*
 
-My brand voice or writing style is knowledgeable, concise and readable. Working  with countless end users streamlined communicating to various levels.
+
 
 ----
 
