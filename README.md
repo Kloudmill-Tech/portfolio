@@ -41,3 +41,5 @@ My brand voice or writing style is knowledgeable, concise and readable. My exper
 * Technical Research
 * Version Control
 * Adobe Framemaker (in progress)
+* RHEL OS
+* Windows Server
