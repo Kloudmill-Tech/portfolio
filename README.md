@@ -4,7 +4,9 @@
 
 ## *About Me*
 
-Greetings,this portfolio showcases to communicate complex topics in plain english. I have more than 10+ years of Information Technology experience under my belt, which includes roles such Sysadmin, Desktop Support, Release Engineer and Cloud Administrator. I'm eager to work with organizations of all sizes and scopes to create compelling and informative documentation.
+Greetings,
+
+KloudMill Technology Solutons strives to provide invaluable services to organizations of various sizes and industries. This portfolio page will showcase technical writing samples and completed work.
 
 ----
 
