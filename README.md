@@ -22,7 +22,7 @@ My brand voice or writing style is knowledgeable, concise and readable. My exper
 
 [**Postman in Plain English**](https://github.com/Kloudmill-Tech)
 
-[**k8s in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/K8s_in_english.md)
+[**K8s in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/K8s_in_english.md)
 
 [**SSL/TLS in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/SSL_TLS.md)
 
