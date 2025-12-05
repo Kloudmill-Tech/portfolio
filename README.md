@@ -14,7 +14,7 @@ My brand voice or writing style is knowledgeable, concise and readable. My exper
 
 ----
 
-## Writing Samples
+## *Writing Samples*
 
 [**APIs in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/APIs_In_Plain_English.md)
 
@@ -26,7 +26,7 @@ My brand voice or writing style is knowledgeable, concise and readable. My exper
 
 ----
 
-### Portfolio Content
+## Portfolio Content
 
 * Articles
 * Technical Guides
