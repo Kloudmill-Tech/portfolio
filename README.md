@@ -12,7 +12,7 @@ KloudMill Technology Solutons strives to provide invaluable services to organiza
 
 ## *My Voice*
 
-My brand voice or writing style is knowledgeable, concise and readable. My experience with countless end users of various levels has tailored my tone quite effectively.
+My brand voice or writing style is knowledgeable, concise and readable. Working  with countless end users streamlined communicating to various levels.
 
 ----
 
