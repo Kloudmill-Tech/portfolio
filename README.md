@@ -12,8 +12,6 @@ KloudMill Technology Solutons strives to provide invaluable services to organiza
 
 ## *My Voice*
 
-
-
 ----
 
 ## *Writing Samples*
@@ -25,6 +23,7 @@ KloudMill Technology Solutons strives to provide invaluable services to organiza
 [**K8s in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/K8s_in_english.md)
 
 [**SSL/TLS in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/SSL_TLS.md)
+
 
 ----
 

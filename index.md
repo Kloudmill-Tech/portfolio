@@ -1,7 +1,7 @@
-# KloudMill Technical Writing Portfolio 
+# KloudMill Technical Writing Portfolio
 
 ----
 🚀 Launching Soon!
 
 ----
-copyright Kloudmill 
+&copy; Kloudmill 2026
