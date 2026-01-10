@@ -23,3 +23,9 @@ Here is an example of a JSON style cookie file, using a browser format
 * Why am getting so many pop-ups?
 
 ----
+
+This age old question is due to too many cookies saved in your browser. Marketing firms use cookies to target specific audiences with precise ads or pop-ups. As a result your web browsing is slow, inefficent and virus prone.
+
+## Conclusion
+
+Cookies, are widely used in modern websites and ultimately end users like yourself must exercise their right to remove them.
