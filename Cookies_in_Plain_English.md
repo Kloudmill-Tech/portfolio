@@ -26,7 +26,7 @@ Here is a sample JSON style cookie file, using a browser format
 
 ----
 
-This age old question is due to too many cookies saved in your browser. Marketing firms use cookies to target specific audiences with precise ads or pop-ups. As a result your web browsing is slow, inefficent and virus prone.
+Marketing firms use cookies to target specific audiences with precise ads or pop-ups. As a result your web browsing is slow, inefficent and virus prone. Websites, at least some require consent to store cookies in your browser. Keep in mind, this accumlates everytime you visit a new website or add an item to your shopping cart.
 
 ## Conclusion
 
