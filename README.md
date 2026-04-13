@@ -12,6 +12,8 @@ KloudMill Technology Solutons strives to provide invaluable services to organiza
 
 ## *My Voice*
 
+My intention woll be to convey an balanced and friendly writing style for non-technical and technical readers alike.
+
 ----
 
 ## *Writing Samples*
