@@ -12,7 +12,7 @@ KloudMill Technology Solutons strives to provide invaluable services to organiza
 
 ## *My Voice*
 
-My intention woll be to convey an balanced and friendly writing style for non-technical and technical readers alike.
+My intention will be to convey a balanced and friendly writing style for non-technical and technical readers alike.
 
 ----
 
@@ -25,7 +25,6 @@ My intention woll be to convey an balanced and friendly writing style for non-te
 [**K8s in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/K8s_in_english.md)
 
 [**SSL/TLS in Plain English**](https://github.com/Kloudmill-Tech/portfolio/blob/main/SSL_TLS.md)
-
 
 ----
 
